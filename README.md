@@ -9,7 +9,8 @@
 
 ## Compatibility
 * Magisk 18+
-* All pre-S9 devices with a sensor resolution of 4032x3024
+* Samsung Galaxy S7, Note FE, S8, Note 8, possibly more
+* Android Marshmallow, Nougat, Oreo, Pie
 
 ## Changelog
 ### 1.0.0
